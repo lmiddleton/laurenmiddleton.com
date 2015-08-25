@@ -3,8 +3,10 @@
 
 /* Site Wide Properties */
 body {
+	background-color: #FFFFFF;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
+
 hr.1 {
 	border-top-style: dotted;
 	border-right-style: dotted;
