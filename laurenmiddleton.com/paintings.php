@@ -6,266 +6,215 @@
 </head>
 
 <body>
-<table width="700" align="center" cellpadding="4" bordercolor="#ECECEC" id="maincontent" vspace="50">
   
   <?php include 'header.php';?>
 
-  <tr>
-    <td colspan="3" align="center" valign="middle" bordercolor="#FFFFFF" class="caption">
-      <div align="center">
-        <table width="700" border="0" align="center" cellpadding="4">
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/thesis/thumbs/IMG_1973.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/thesis/thumbs/IMG_1974.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/thesis/thumbs/IMG_1975.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/thesis/thumbs/IMG_1976.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/thesis/thumbs/IMG_1977.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/thesis/thumbs/IMG_1978.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/thesis/thumbs/IMG_1979.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/thesis/thumbs/IMG_1980.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/thesis/thumbs/IMG_1972.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/thesis/thumbs/IMG_1961.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/thesis/thumbs/IMG_1962.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/thesis/thumbs/IMG_1963.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/thesis/thumbs/IMG_1964.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/thesis/thumbs/IMG_1965.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/thesis/thumbs/IMG_1966.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/thesis/thumbs/IMG_1967.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/thesis/thumbs/IMG_1968.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/thesis/thumbs/IMG_1969.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/thesis/thumbs/IMG_1970.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/thesis/thumbs/IMG_1971.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="pomegranate.html"><img src="paintings/132_pomegranate_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="time_held_me.html"><img src="paintings/133_time_held_me_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fold.html"><img src="paintings/134_fold_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="shed.html"><img src="paintings/135_shed_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td class="navigation" style="text-align: center">&nbsp;</td>
-            <td class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="blossom.html"><img src="paintings/136_blossom_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="struggle.html"><img src="paintings/137_struggle_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="fetal.html"><img src="paintings/138_fetal_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="deep.html"><img src="paintings/139_deep_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
-  <tr>
-  
+  <div class="maincontent">
+
+    <ul class="thumb-nav">
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/BlueWound-816x1024.jpg" alt="Blue Wound">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/SeptemberSkyI-821x1024.jpg" alt="September Sky I">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/SeptemberSkyII-817x1024.jpg" alt="September Sky II">
+        </a>
+      </li>
+
+    </ul>
+
+    <ul class="thumb-nav">
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/thesis/thumbs/IMG_1973.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/time_held_me.html">
+          <img src="paintings/thesis/thumbs/IMG_1974.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/thesis/thumbs/IMG_1975.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/thesis/thumbs/IMG_1976.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/thesis/thumbs/IMG_1977.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/time_held_me.html">
+          <img src="paintings/thesis/thumbs/IMG_1978.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/thesis/thumbs/IMG_1979.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/thesis/thumbs/IMG_1980.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/thesis/thumbs/IMG_1972.jpg">
+        </a>
+      </li>
+
+    </ul>
+
+    <ul class="thumb-nav">
+
+      <li>
+        <a href="paintings/time_held_me.html" alt="unfurl">
+          <img src="paintings/thesis/thumbs/IMG_1961.jpg">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/thesis/thumbs/IMG_1962.jpg" alt="moving, moving, since the beginning of creation">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/thesis/thumbs/IMG_1963.jpg" alt="fluttering, then faltering, then fluttering again">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/thesis/thumbs/IMG_1964.jpg" alt="leaving terra">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/time_held_me.html">
+          <img src="paintings/thesis/thumbs/IMG_1965.jpg" alt="unknowing I must soon unpetal">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/thesis/thumbs/IMG_1966.jpg" alt="struggle">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/thesis/thumbs/IMG_1967.jpg" alt="the sky is turning red/return to power draws near">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/thesis/thumbs/IMG_1968.jpg" alt="I'm a fountain of blood in the shape of a girl">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/time_held_me.html">
+          <img src="paintings/thesis/thumbs/IMG_1969.jpg" alt="sky is womb and she's the moon">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/thesis/thumbs/IMG_1970.jpg" alt="the birth of Venus">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/thesis/thumbs/IMG_1971.jpg" alt="they were going to climb and climb, trying to find awe within themselves">
+        </a>
+      </li>
+
+    </ul>
+
+    <ul class="thumb-nav">
+
+      <li>
+        <a href="paintings/pomegranate.html">
+          <img src="paintings/132_pomegranate_th.jpg" alt="Pomegranate">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/time_held_me.html">
+          <img src="paintings/133_time_held_me_th.jpg" alt="Time Held Me Green and Dying">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fold.html">
+          <img src="paintings/134_fold_th.jpg" alt="Fold">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/shed.html">
+          <img src="paintings/135_shed_th.jpg" alt="Shed">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/blossom.html">
+          <img src="paintings/136_blossom_th.jpg" alt="Blossom">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/struggle.html">
+          <img src="paintings/137_struggle_th.jpg" alt="Struggle">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/fetal.html">
+          <img src="paintings/138_fetal_th.jpg" alt="Fetal">
+        </a>
+      </li>
+
+      <li>
+        <a href="paintings/deep.html">
+          <img src="paintings/139_deep_th.jpg" alt="Deep">
+        </a>
+      </li>
+
+    </ul>
+
+  </div>
+                  
   <?php include 'footer.php';?>
 
-</table>
-<br />
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-3411571-1";
-urchinTracker();
-</script>
 </body>
 </html>
-<a href="http://mailhide.recaptcha.net/d?k=01mMPbr11C6AYPUzw4KXTWpA==&amp;c=mkIjaYy6ZbTx-y8jgV2gKsrLeOyMEgHVMZ4ZkU0JHaU=" onClick="window.open('http://mailhide.recaptcha.net/d?k=01mMPbr11C6AYPUzw4KXTWpA==&amp;c=mkIjaYy6ZbTx-y8jgV2gKsrLeOyMEgHVMZ4ZkU0JHaU=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">

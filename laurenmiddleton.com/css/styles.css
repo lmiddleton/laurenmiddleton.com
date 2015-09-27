@@ -1,0 +1,69 @@
+html {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+	color: #666666;
+}
+
+a:link {
+	color: #666666;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #666666;
+}
+
+a:hover {
+	color: #ff0000;
+}
+
+ul.basic {
+	list-style-type: none;
+}
+
+ul.inline li {
+	display: inline-block;
+}
+
+.header {
+	/*background-color: yellow;*/
+	padding: 2em;
+}
+
+.maincontent {
+	/*background-color: #efefef;*/
+	padding: 2em;
+}
+
+.footer {
+	font-size: 0.8em;
+	padding: 2em;
+}
+
+#home-nav-parent {
+	display: table;
+	text-align: center;
+}
+
+#home-nav-parent a {
+	display: table-cell;
+}
+
+#home-nav-parent a img {
+	display: block;
+	padding: 0.5em;
+}
+
+ul.thumb-nav {
+	margin-bottom: 1.5em;
+}
+
+ul.thumb-nav li {
+	display: inline-block;
+	padding: 0.2em;
+}
+
+ul.thumb-nav img {
+	height: 150px;
+	width: 150px;
+}
