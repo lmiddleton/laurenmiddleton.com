@@ -16,6 +16,11 @@ h3 {
 	font-weight: bold;
 }
 
+p {
+	margin-top: 1em;
+	line-height: 1.5em;
+}
+
 a:link {
 	color: #666666;
 	text-decoration: none;
