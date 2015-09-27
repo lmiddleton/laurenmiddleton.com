@@ -1,7 +1,7 @@
 <div class="header">
-    <div>
+    <h1>
 	   <img src="name_banner.jpg" alt="Lauren Middleton">
-    </div>
+    </h1>
     <ul class="basic inline" style="margin-top: 0.5em;">
     	<li>
         	<a href="index.php">Home</a>
