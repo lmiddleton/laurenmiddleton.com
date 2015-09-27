@@ -16,6 +16,11 @@
       <a href="mailto:info@laurenmiddleton.com">info@laurenmiddleton.com</a>
     </p>
 
+    <h3>Studio:</h3>
+    <ul class="resume">
+      <li>Member of River Street Artists Collective, Waltham Mills Artists Association (2015-present)</li>
+    </ul>
+
     <h3>Exhibitions:</h3>
     <ul class="resume">
       <li>Life/Death/Life: BFA Thesis Exhibition, Augusta Savage Gallery, Amherst MA (2012)</li>

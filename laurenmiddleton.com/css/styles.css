@@ -45,6 +45,11 @@ ul.resume li {
 	line-height: 1.5em;
 }
 
+ul.links li {
+	list-style-type: none;
+	line-height: 1.2em;
+}
+
 ul.inline li {
 	display: inline-block;
 }
