@@ -9,7 +9,7 @@
 
   <?php include 'header.php';?>
 
-  <div class="maincontent">
+  <div class="maincontent statement">
 
     <p >I am interested in life and death cycles as they pertain to the physical body, as well as human psychology and relationships. Learning to let go of people, of past loves, of places I once called home, and of beliefs about myself and others is a process that I feel deeply and consistently. Objects that mirror these patterns in the natural world, in organic matter, and in my own body serve as powerful metaphors to visually depict these processes. The act of painting is a meditation on these emotional and physical cycles of holding on and letting go, of inhaling and exhaling, and of birth and death, that give physical form and interpretation to these experiences so that they may be examined, better understood, and accepted.</p>
 
@@ -17,7 +17,7 @@
 
     <p>My work ultimately serves to honor the Life/Death/Life force and the parts of ourselves we are all called on, again and again, to leave behind.</p>
 
-    <p>Lauren Middleton, February 2012</p>
+    <p style="font-style: italic;">Lauren Middleton, February 2012</p>
 
   </div>
            
