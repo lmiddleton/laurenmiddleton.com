@@ -6,97 +6,70 @@
 </head>
 
 <body>
-<table width="700" align="center" cellpadding="4" bordercolor="#ECECEC" id="maincontent" vspace="50">
 
   <?php include 'header.php';?>
 
-  <tr>
-    <td colspan="3" align="center" valign="middle" bordercolor="#FFFFFF" class="caption">
-      <div align="center">
-        <table width="700" border="0" align="center" cellpadding="4">
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="trapped.html"><img src="digital_media/most-beautiful-day.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="trapped.html"><img src="digital_media/lexington_scratch.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="trapped.html"><img src="digital_media/111trapped_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="treesarealive.html"><img src="digital_media/112treesarealive_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-          <tr>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="floating.html"><img src="digital_media/110floating_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="vagmon2012.html"><img src="digital_media/144_vagmon2012_logo_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="haters.html"><img src="digital_media/145_haters_gonna_hate_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="150" class="navigation" style="text-align: center">
-              <span class="navigation" style="text-align: center">
-                <span class="navigation" style="text-align: center">
-                  <a href="vagmon2011.html"><img src="digital_media/146_vagmon2011_logo_th.jpg" width="150" height="150"></a>
-                </span>
-              </span>
-            </td>
-            <td width="37" class="navigation" style="text-align: center">&nbsp;</td>
-          </tr>
-        </table>
-      </div>
-    </td>
-  </tr>
+  <div class="maincontent">
+  
+    <ul class="thumb-nav">
+
+      <li>
+        <a href="digital_media/trapped.html">
+          <img src="digital_media/most-beautiful-day.jpg" alt="The Most Beautiful Day of the Year">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/trapped.html">
+          <img src="digital_media/lexington_scratch.jpg" alt="Lexington Scratch">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/trapped.html">
+          <img src="digital_media/111trapped_th.jpg" alt="Trapped">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/treesarealive.html">
+          <img src="digital_media/112treesarealive_th.jpg" alt="The Trees Are Alive">
+        </a>
+      </li>
+
+    </ul>
+
+    <ul class="thumb-nav">
+      
+      <li>
+        <a href="digital_media/floating.html">
+          <img src="digital_media/110floating_th.jpg" alt="Floating">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/vagmon2012.html">
+          <img src="digital_media/144_vagmon2012_logo_th.jpg" alt="VagMon 2012 Logo">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/haters.html">
+          <img src="digital_media/145_haters_gonna_hate_th.jpg" alt="Haters Gonna Hate">
+        </a>
+      </li>
+      
+      <li>
+        <a href="digital_media/vagmon2011.html">
+          <img src="digital_media/146_vagmon2011_logo_th.jpg" alt="VagMon 2011 Logo">
+        </a>
+      </li>
+
+    </ul>
+
+  </div>       
 
   <?php include 'footer.php';?>
 
-</table>
-<br />
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-3411571-1";
-urchinTracker();
-</script>
 </body>
 </html>
-<a href="http://mailhide.recaptcha.net/d?k=01mMPbr11C6AYPUzw4KXTWpA==&amp;c=mkIjaYy6ZbTx-y8jgV2gKsrLeOyMEgHVMZ4ZkU0JHaU=" onClick="window.open('http://mailhide.recaptcha.net/d?k=01mMPbr11C6AYPUzw4KXTWpA==&amp;c=mkIjaYy6ZbTx-y8jgV2gKsrLeOyMEgHVMZ4ZkU0JHaU=', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">
