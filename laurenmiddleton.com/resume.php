@@ -23,8 +23,11 @@
 
     <h3>Exhibitions:</h3>
     <ul class="resume">
-      <li>Life/Death/Life: BFA Thesis Exhibition, Augusta Savage Gallery, Amherst MA (2012)</li>
-      <li>Concord Carlisle High School Exhibition, The Concord Art Association, Concord MA (2008)</li>
+      <li>Junior + Senior Exhibition, Herter Gallery, Amherst, MA (May 2012)</li>
+      <li>Humanities and Fine Arts Student Showcase, Student Union, University of Massachusetts, Amherst (April 2012)</li>
+      <li>Life/Death/Life: BFA Thesis Exhibition, Augusta Savage Gallery, Amherst MA (April 2012)</li>
+      <li>Celebration of Writing: Voicing Our Words, Goodell, University of Massachusetts, Amherst (May 2011)<li>
+      <li>2008 Concord Carlisle High School Exhibition, The Concord Art Association, Concord MA (May-June 2008)</li>
     </ul>
 
     <h3>Residencies:</h3>
@@ -34,7 +37,7 @@
 
     <h3>Grants, Honors, and Awards:</h3>
     <ul class="resume">
-      <li>Honors Research Grant: 2-wk trip to New Mexico; Research on the art and life of Georgia O'Keeffe (2011-2012)</li>
+      <li>Commonwealth Honors College Honors Research Grant: 2-wk travel in New Mexico; Research on the art and life of Georgia O'Keeffe (2011-2012)</li>
       <li>Massachusetts Undergraduate Research Conference: Thesis research presentation (2012)</li>
       <li>Concord Carlisle High School Exhibition Prize Winner (2008)</li>
     </ul>

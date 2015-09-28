@@ -49,7 +49,7 @@ ul.resume li {
 
 ul.links li {
 	list-style-type: none;
-	line-height: 1.2em;
+	line-height: 1.4em;
 }
 
 ul.inline li {
@@ -58,6 +58,7 @@ ul.inline li {
 
 ul.nav {
 	display: inline-block;
+	padding-top: 1em;
 }
 
 ul.nav li {
@@ -127,6 +128,7 @@ ul.nav a.pin:hover {
 
 #home-nav-parent a {
 	display: table-cell;
+	padding-right: 1em;
 }
 
 #home-nav-parent a img {
