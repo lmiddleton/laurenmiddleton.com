@@ -49,7 +49,6 @@
     <ul class="resume">
       <li>BFA Studio Arts, Painting Concentration, University of Massachusetts, Amherst (2012)</li>
       <li>Commonwealth Honors College, Departmental Honors (Art)</li>
-      <li>Concord-Carlisle Regional High School, Concord MA (2008)</li>
     </ul>
 
   </div>
