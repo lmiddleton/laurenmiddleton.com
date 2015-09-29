@@ -166,59 +166,7 @@
 
     </ul>
 
-    <!--
-    <ul class="thumb-nav">
-
-      <li>
-        <a href="pomegranate.html">
-          <img src="images/132_pomegranate_th.jpg" alt="Pomegranate">
-        </a>
-      </li>
-
-      <li>
-        <a href="time_held_me.html">
-          <img src="images/133_time_held_me_th.jpg" alt="Time Held Me Green and Dying">
-        </a>
-      </li>
-
-      <li>
-        <a href="fold.html">
-          <img src="images/134_fold_th.jpg" alt="Fold">
-        </a>
-      </li>
-
-      <li>
-        <a href="shed.html">
-          <img src="images/135_shed_th.jpg" alt="Shed">
-        </a>
-      </li>
-
-      <li>
-        <a href="blossom.html">
-          <img src="images/136_blossom_th.jpg" alt="Blossom">
-        </a>
-      </li>
-
-      <li>
-        <a href="struggle.html">
-          <img src="images/137_struggle_th.jpg" alt="Struggle">
-        </a>
-      </li>
-
-      <li>
-        <a href="fetal.html">
-          <img src="images/138_fetal_th.jpg" alt="Fetal">
-        </a>
-      </li>
-
-      <li>
-        <a href="deep.html">
-          <img src="images/139_deep_th.jpg" alt="Deep">
-        </a>
-      </li>
-
-    </ul>
-  -->
+    <a href="paintings-older.php"><< Older</a>
 
   </div>
                   

@@ -48,43 +48,43 @@
       </li>
       
       <li>
-        <a href="young_again.html">
+        <a href="young-again.php">
           <img src="images/128_young_again_whole_again_th.jpg" alt="young again, whole again">
         </a>
       </li>
       
       <li>
-        <a href="vag1.html">
+        <a href="vag1.php">
           <img src="images/129_vag_collage_1_th.jpg" alt="Vagina Collage 1">
         </a>
       </li>
       
       <li>
-        <a href="vag2.html">
+        <a href="vag2.php">
           <img src="images/130_vag_collage_2_th.jpg" alt="Vagina Collage 2">
         </a>
       </li>
 
       <li>
-        <a href="do_it_yourself.html">
+        <a href="do-it-yourself.php">
           <img src="images/140_do_it_yourself_th.jpg" alt="Do It Yourself">
         </a>
       </li>
 
       <li>
-        <a href="heartstrings.html">
+        <a href="heartstrings.php">
           <img src="images/141_heartstrings_th.jpg" alt="Heartstrings">
         </a>
       </li>
         
       <li>
-        <a href="vag3.html">
+        <a href="vag3.php">
           <img src="images/142_vagina_collage_3_th.jpg" alt="Vagina Collage 3">
         </a>
       </li>
       
       <li>
-        <a href="vag4.html">
+        <a href="vag4.php">
           <img src="images/143_vagina_collage_4_th.jpg" alt="Vagina Collage 4">
         </a>
       </li>

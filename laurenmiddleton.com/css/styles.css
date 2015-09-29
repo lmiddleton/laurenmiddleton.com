@@ -146,6 +146,11 @@ ul.thumb-nav li {
 	padding: 0.2em;
 }
 
+ul.thumb-nav a:hover {
+	background-color: #ff0000;
+	/*opacity: 0.5;*/
+}
+
 ul.thumb-nav img {
 	height: 115px;
 	width: 115px;
