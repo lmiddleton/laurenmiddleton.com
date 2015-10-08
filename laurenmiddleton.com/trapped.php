@@ -13,7 +13,7 @@
 
     <div class="full">
       <img src="images/111trapped.jpg" alt="Trapped" />
-      <div class="caption"><span class="title">Trapped</span>, pigment print, 13&quot; x 34&quot; &copy; 2010</caption>
+      <div class="caption"><span class="title">Trapped</span>, pigment print, 13&quot; x 34&quot; &copy; 2010</div>
     </div>
 
   </div>

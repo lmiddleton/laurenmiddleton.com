@@ -13,7 +13,7 @@
 
     <div class="full">
       <img src="images/september-sky-ii.jpg">
-      <div class="caption"><span class="title">September Sky II</span>, acrylic and pencil on panel, ?&quot; x ?&quot; &copy; 2015</div>
+      <div class="caption"><span class="title">September Sky II</span>, acrylic and pencil on panel, 16&quot; x 20&quot; &copy; 2015</div>
     </div>
 
   </div>
