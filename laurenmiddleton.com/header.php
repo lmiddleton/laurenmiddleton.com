@@ -1,3 +1,5 @@
+<?php include 'analyticstracking.php';?>
+
 <div class="header">
     <h1>
 	   <img src="assets/name_banner.jpg" alt="Lauren Middleton">
