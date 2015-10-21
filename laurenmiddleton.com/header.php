@@ -22,13 +22,15 @@
             <strong>.</strong>
         </li>
         <li>
+            <a href="statement.php">About</a>
+            <strong>.</strong>
+        </li>
+        <!-- 
+        <li>
         	<a href="resume.php">Resume</a>
         	<strong>.</strong>
         </li>
-        <li>
-        	<a href="statement.php">Statement</a>
-        	<strong>.</strong>
-        </li>
+        -->
         <li>
         	<a href="links.php">Links</a>
         </li>

@@ -13,18 +13,18 @@
 
     <div id="home-nav-parent">
       <a href="paintings.php">
-        <img alt="" src="images/september-sky-ii.jpg" style="width: 300px; height: 300px;">
-        <span style="font-size: 1.2em;">Paintings</span>
+        <img alt="" src="images/september-sky-ii-th-big.jpg">
+        <span>Paintings</span>
       </a>
     
       <a href="works-on-paper.php">
-        <img alt="" src="images/68cc2b.jpg" style="width: 300px; height: 300px;">
-        <span style="font-size: 1.2em;">Works on Paper</span>
+        <img alt="" src="images/68cc2b-th-big-2.jpg">
+        <span>Works on Paper</span>
       </a>
    
       <a href="digital-media.php">
-        <img alt="" src="images/most-beautiful-day.jpg" style="width: 300px; height: 300px;">
-        <span style="font-size: 1.2em;">Digital Media</span>
+        <img alt="" src="images/most-beautiful-day-th-big.jpg">
+        <span>Digital Media</span>
       </a>
     </div>
 

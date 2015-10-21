@@ -119,6 +119,7 @@ ul.nav a.pin:hover {
 .footer {
 	font-size: 0.8em;
 	padding: 2em;
+	border-top: solid 1px #ccc;
 }
 
 #home-nav-parent {
@@ -133,7 +134,14 @@ ul.nav a.pin:hover {
 
 #home-nav-parent a img {
 	display: block;
-	padding: 0.5em;
+	margin: 0.5em;
+	width: 250px;
+	height: 250px;
+	border: solid 1px #efefef;
+}
+
+#home-nav-parent span {
+	font-size: 1.1em;
 }
 
 ul.thumb-nav {
